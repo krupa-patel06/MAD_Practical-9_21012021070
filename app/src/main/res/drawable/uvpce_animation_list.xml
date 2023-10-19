@@ -19,12 +19,12 @@
         android:duration="200" />
     <item
         android:drawable="@drawable/uvpce_logo_5"
-        android:duration="100" />
+        android:duration="200" />
     <item
         android:drawable="@drawable/uvpce_logo_6"
-        android:duration="100" />
+        android:duration="50" />
     <item
         android:drawable="@drawable/uvpce_logo_7"
-        android:duration="100" />
+        android:duration="50" />
 
 </animation-list>
