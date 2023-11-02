@@ -1,4 +1,4 @@
-# MAD_Practical-9_21012011072
+# MAD_Practical-9_21012021070
 
 Aim:
 What is Frame by Frame Animation? What is Twin Animation? How can you achieve edge-to-edge content display in your app? Create Android Application to demonstrate Frame by frame animation and splash screen to demonstrate twin animation according to below instructions.
@@ -17,6 +17,6 @@ To achieve edge-to-edge content display in your Android app, set system UI flags
 
 # Output
 
-![image](https://github.com/Divy484/MAD_Practical-9_21012011072/assets/98522523/961dff58-c657-40ea-a932-27bdf3447c16)
-![image](https://github.com/Divy484/MAD_Practical-9_21012011072/assets/98522523/9d773dda-37dc-4a5e-99e3-e8ee49397ef0)
-![image](https://github.com/Divy484/MAD_Practical-9_21012011072/assets/98522523/9ff2820f-0e97-4229-b076-f449ff410778)
+![image](https://github.com/Divy484/MAD_Practical-9_21012021070/assets/98522523/961dff58-c657-40ea-a932-27bdf3447c16)
+![image](https://github.com/Divy484/MAD_Practical-9_21012021070/assets/98522523/9d773dda-37dc-4a5e-99e3-e8ee49397ef0)
+![image](https://github.com/Divy484/MAD_Practical-9_21012021070/assets/98522523/9ff2820f-0e97-4229-b076-f449ff410778)

@@ -1,9 +1,10 @@
-package com.example.mad_practical_9_21012011072
+package com.example.mad_practical_9_21012021070
 
 import android.graphics.drawable.AnimationDrawable
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageView
+import com.example.mad_practical_9_21012011072.R
 
 class MainActivity : AppCompatActivity() {
 

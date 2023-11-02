@@ -1,4 +1,4 @@
-package com.example.mad_practical_9_21012011072
+package com.example.mad_practical_9_21012021070
 
 import android.content.Intent
 import android.graphics.drawable.AnimationDrawable
@@ -7,6 +7,7 @@ import android.os.Bundle
 import android.view.animation.Animation
 import android.view.animation.AnimationUtils
 import android.widget.ImageView
+import com.example.mad_practical_9_21012011072.R
 
 class SplashActivity : AppCompatActivity() {
     lateinit var logoanimation: AnimationDrawable
